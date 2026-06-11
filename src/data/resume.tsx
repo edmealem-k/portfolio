@@ -7,11 +7,10 @@ export const DATA = {
 	url: "https://portfolio-edmealems-projects.vercel.app/",
 	location: "Bahir Dar, Ethiopia",
 	locationLink: "https://www.google.com/maps/place/Bahir+Dar",
-	description:
-		"Software Engineer | Full-Stack TypeScript Developer | Backend-Focused",
+	description: "Software Engineer | Full-Stack TypeScript Developer",
 	summary:
 		"Software Engineering graduate and full-stack TypeScript developer with 3+ years of hands-on experience building production web applications, backend APIs, dashboards, and real-time features. Strong in Node.js, NestJS, Express.js, React/Next.js, PostgreSQL, MySQL, MongoDB, and modern ORMs.\n\nI currently work at **Nexudy**, where I build full-stack product features for an execution-governance platform focused on verified execution, evidence tracking, and early risk detection. Before that, I contributed backend systems for **Askuala Link PLC** and shipped admin dashboard and payment-tracking features during my internship at **Nexus Tech Solutions**.\n\nAcross SaaS, edtech, ecommerce, and booking products, I enjoy turning complex requirements into clean, reliable, and maintainable software.",
-	avatarUrl: "/me.png",
+	avatarUrl: "/pp.jpg",
 	skills: [
 		"TypeScript",
 		"JavaScript",
